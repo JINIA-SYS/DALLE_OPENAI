@@ -1,0 +1,7 @@
+/server/node_modules/
+/client/node_modules/
+/server/.env
+ai_mern_app_assets.zip
+app.html
+notes
+images
